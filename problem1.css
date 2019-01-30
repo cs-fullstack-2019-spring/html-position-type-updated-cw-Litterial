@@ -1,0 +1,60 @@
+/**{*/
+    /*border-style: solid;*/
+/*}*/
+
+body {
+    background-color: grey;
+    /*default: block;*/
+}
+
+header
+{
+    text-align: center;
+}
+aside
+{
+    position:relative;
+    width: 5%;
+    top:20px;
+    right:0;
+    padding:0;
+    float: right;
+
+}
+
+
+.sectionLeft
+{
+    width: 10%;
+    position: relative;
+    top: 20px;
+    padding:0;
+    float:left;
+}
+
+
+.midSection
+{
+
+    position:relative;
+    width: 60%;
+    top:20px;
+    padding: 0;
+    margin-left: 5%;
+    float:left;
+}
+footer{
+    postion: relative;
+    margin-left: 43%;
+    clear:both
+}
+.tooltip {
+    font-size: 20px;
+    padding: 0px;
+}
+
+p{
+    border:0;
+    padding:0;
+}
+
